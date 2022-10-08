@@ -1,0 +1,22 @@
+.App {
+  padding: 60px 0 100px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App-header {
+  max-width: 300px;
+  display: block;
+  margin: 30px auto;
+  font-size: 25px;
+}
+
+.App footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 13px;
+}
+
+.App a {
+  color: #6c63ff;
+}
