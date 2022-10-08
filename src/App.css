@@ -6,9 +6,9 @@
 
 .App-header {
   max-width: 300px;
-  display: block;
   margin: 30px auto;
   font-size: 25px;
+  text-align: center;
 }
 
 .App footer {
