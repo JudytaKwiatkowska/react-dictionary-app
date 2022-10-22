@@ -1,5 +1,6 @@
 body {
-  background-color: #e0e0e5;
+  background-color: #f9f7fe;
+  font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -16,6 +17,8 @@ a {
   max-width: 300px;
   margin: 30px auto;
   text-align: center;
+  font-style: normal;
+  font-weight: 600;
 }
 
 .App footer {
